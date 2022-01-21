@@ -25,3 +25,4 @@
 </div>
   
 - 🌱 I’m currently learning HTML, CSS, Javascript
+- ⚡ Knowledge in python 3, GIT, GitHub
