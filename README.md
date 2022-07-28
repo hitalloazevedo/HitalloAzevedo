@@ -24,6 +24,6 @@
  
 </div>
   
-- 🌱 I’m currently learning HTML, CSS, Javascript
+- 🌱 I’m currently learning HTML, CSS, Javascript, english.
 - ⚡ Knowledge in python 3 (functions, lambda functions, list comprehension, loops), 
 GIT, GitHub, knowledge basic in databases (sqlite, mysql).
