@@ -23,7 +23,8 @@
   ![Snake animation](https://github.com/HitalloAzevedo/HitalloAzevedo/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-  
+
+- 📚 Tecnologia em Análise e Desenvolvimento de Sistemas - UNICAMP
 - 🌱 I’m currently learning HTML, CSS, Javascript, english.
 - ⚡ Knowledge in python 3 (functions, lambda functions, list comprehension, loops), 
 GIT, GitHub, knowledge basic in databases (sqlite, mysql).
