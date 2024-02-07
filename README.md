@@ -1,4 +1,4 @@
-### Olá!!! Eu sou o Hitallo Azevedo
+### Hey!!! I am Hitallo Azevedo
 
 <div align="center">
   <a href="https://github.com/HitalloAzevedo">
