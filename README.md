@@ -24,7 +24,6 @@
  
 </div>
 
-- 📚 Tecnologia em Análise e Desenvolvimento de Sistemas - UNICAMP
-- 🌱 I’m currently learning HTML, CSS, Javascript, english.
-- ⚡ Knowledge in python 3 (functions, lambda functions, list comprehension, loops), 
-GIT, GitHub, knowledge basic in databases (sqlite, mysql).
+- 📚 Tecnologia em Análise e Desenvolvimento de Sistemas - UNICAMP.
+- 🌱 I’m currently learning ReactJs and improving my Javascript skills and soon I'll be fluent in english 🌎.
+- ⚡ Knowledge in Python 3, HTML, CSS, Javascript and SQL Databases as MySQL. 
