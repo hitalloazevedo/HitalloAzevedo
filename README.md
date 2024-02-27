@@ -26,4 +26,4 @@
 
 - 📚 Tecnologia em Análise e Desenvolvimento de Sistemas - UNICAMP.
 - 🌱 I’m currently learning ReactJs and improving my Javascript skills and soon I'll be fluent in english 🌎.
-- ⚡ Knowledge in Python 3, HTML, CSS, Javascript and SQL Databases as MySQL. 
+- ⚡ Knowledge in Python 3, HTML, CSS, Javascript, Reactjs, Git and SQL Databases as MySQL. 
