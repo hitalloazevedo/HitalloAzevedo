@@ -28,5 +28,5 @@
 </div>
 
 - 📚 Tecnologia em Análise e Desenvolvimento de Sistemas - UNICAMP.
-- 🌱 I’m currently learning ReactJs and improving my Javascript skills and soon I'll be fluent in english 🌎.
-- ⚡ Knowledge in Python 3, HTML, CSS, Javascript, Reactjs, Git and SQL Databases as MySQL. 
+- 🌱 I’m currently learning Typescript applied in ReactJS 🌎.
+- ⚡ Knowledge in Python, HTML, CSS, Javascript, Typescript, Reactjs, C language, Git and SQL Databases. 
