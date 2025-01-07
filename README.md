@@ -30,5 +30,5 @@
 </div>
 
 - 📚 Tecnologia em Análise e Desenvolvimento de Sistemas - UNICAMP.
-- 🌱 I’m currently learning Typescript applied in ReactJS 🌎.
-- ⚡ Knowledge in Python, HTML, CSS, Javascript, Typescript, Reactjs, C language, Git and SQL Databases. 
+- 🌱 I’m currently learning SOLID and desing patterns, as well as improving my typescript and backend web development skills.
+- ⚡ Knowledge in REST API's, Python, Typescript, CSS, React.js, C language, Git, Node.js, Express.js, NoSQL and SQL Databases. 
