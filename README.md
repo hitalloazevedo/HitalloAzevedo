@@ -1,3 +1,3 @@
-- 📚 Tecnologia em Análise e Desenvolvimento de Sistemas - UNICAMP.
-- 🌱 I’m currently learning about cloud computing and distributed systems.
-- ⚡ Knowledge in REST API's, Python, Typescript, CSS, React.js, C language, Git, Node.js, Express.js, NoSQL and SQL Databases. 
+📚 I’m pursuing a degree in Technology in Systems Analysis and Development at UNICAMP.
+🌱 I’m currently deepening my knowledge of cloud computing and distributed systems.
+⚡ I have hands-on experience with REST APIs, Python, TypeScript, CSS, React.js, C, Git, Node.js, Express.js, and both SQL and NoSQL databases.
