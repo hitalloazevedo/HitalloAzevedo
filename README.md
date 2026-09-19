@@ -1,4 +1,4 @@
-📚 I’m pursuing a degree in Technology in Systems Analysis and Development at UNICAMP.
+🎓 Degree in Technology in Systems Analysis and Development at Universidade Estadual de Campinas (UNICAMP).
 
 🌱 I’m currently deepening my knowledge of cloud computing and distributed systems.
 
