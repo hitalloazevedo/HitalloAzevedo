@@ -1,6 +1,6 @@
 🎓 Degree in Technology in Systems Analysis and Development at Universidade Estadual de Campinas (UNICAMP).
 
-🌱 I’m currently deepening my knowledge of cloud computing and distributed systems.
+🌱 I’m currently deepening my knowledge in cloud and distributed systems.
 
 Tech I have knowledge:
 ```
