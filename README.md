@@ -5,7 +5,7 @@
 Tech I have knowledge:
 ```
 - Backend: Node.js, Nest.js, Express.js, Python
-- Frontend: React.js, Next.js, Typescript
+- Frontend: React.js, Next.js, Typescript, Flutter
 - Databases: PostgreSQL, Redis
 - DevOps: Docker, AWS, Github Actions
 ```
