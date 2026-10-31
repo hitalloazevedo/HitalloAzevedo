@@ -1,4 +1,4 @@
-🎓 Degree in Technology in Systems Analysis and Development at Universidade Estadual de Campinas (UNICAMP).
+🎓 Degree in Systems Analysis and Development at Universidade Estadual de Campinas (UNICAMP).
 
 🌱 I’m currently deepening my knowledge in cloud and microservices.
 
